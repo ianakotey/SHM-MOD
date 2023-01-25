@@ -4,6 +4,13 @@ Just a repo to put Changelog on for the SHM MOD Companion to read from...
 
 I Don't want to update the companion all the time just to update the Changelog...
 
+What's SHM MOD *gasp*...?
+
+just kidding lol, well, it's a tool for BP & ECG for Samsung Watches, but this tool has restrictions such as region lock and works only on Samsung Devices, and for that, I found it to be unfair, health is important, this tool should be accessapble to everyone, it saves lives... Anyway, Install the MOD according to the Watch you own:
+| Tizen (Active2 & Watch3 Only)  | WearOS (Watch4, Watch5 & Newer) |
+| ------------- | ------------- |
+| https://forum.xda-developers.com/t/restrictions-removed-shm-mod-tizen-updated.4202685/  | https://forum.xda-developers.com/t/restrictions-removed-shm-mod-wearos-updated.4322527/  |
+
 What's a Companion...?
 
 Start with these video:
