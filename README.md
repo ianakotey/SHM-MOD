@@ -29,8 +29,8 @@ It's an All-In-One Tool I have developed to make things easier for you:
  5. (WearOS Watches Only) ADB Connect to Sideload or Remove/Restore Stock SHM...
  6. BP Sync Enabler...
  
- Oh and if you want to enjoy other things I developed, then visit my website: 
- ## https://geminiman.net/
+ ## Oh and if you want to enjoy other things I developed, then visit my website: 
+ ### https://geminiman.net/
  
  ## Want to Support Me...?
  
