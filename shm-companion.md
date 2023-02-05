@@ -8,5 +8,6 @@
 
 ~~
 
-# Previous Version
+# History
+## xxth Xxx 20xx
   - Added Language Selection on Phone and Watch Apps, did come cleaning to the Watch Section UI…
