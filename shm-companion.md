@@ -1,6 +1,7 @@
 # 15th Feb 2023
-SHM Companion MOD 2.5.2
+SHM Companion MOD 2.5.5
  * While fixing the JSON Error, i was coping one line 3 times and forgot to change the flag of the field,changelog was writing in the phone field, sorry about that...
+ * I have added Troubleshoot BP sync in the BP Sync Enabler tab...
 
 ~~
 
