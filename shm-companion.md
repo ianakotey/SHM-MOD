@@ -1,12 +1,16 @@
-# 14th Feb 2023
-SHM Companion MOD 2.5.1
-  * Fixed JSON Error related to auto-refresh changelog of "What's New" when getting Github content...
+# 15th Feb 2023
+SHM Companion MOD 2.5.2
+ * While fixing the JSON Error, i was coping one line 3 times and forgot to change the flag of the field,changelog was writing in the phone field, sorry about that...
 
 ~~
 
 # History
 ## 2023
 ### Februray 2023
+ * 14th Feb 2023 - SHM Companion MOD 2.5.1
+---
+ * Fixed JSON Error related to auto-refresh changelog of "What's New" when getting Github content...
+---
  * 5th Feb 2023 - SHM Companion MOD 2.5.0
 ---
   1. Improved Guide Section…
