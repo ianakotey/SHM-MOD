@@ -74,11 +74,11 @@ One last note, disable any battery optimization, some phones have aggressive opt
 | https://drive.google.com/open?id=11ievXT0p86Py9vEAz9y8zh5ve9yLgQLn  | https://drive.google.com/open?id=138thPYPMbZIp2Us0Unx_h-SqJQEDxZ-0  |
 
 # What's SHM MOD Companion...?
-Start with these video:
+Start with this Video:
 
-| What is SHM MOD Companion?  | Latest Companion Update - 2.0.0 |
-| ------------- | ------------- |
-| [![What is SHM MOD Companion?](https://img.youtube.com/vi/a0FO9pwqMkQ/0.jpg)](https://www.youtube.com/watch?v=a0FO9pwqMkQ)  | [![Latest Companion Update - 2.0.0](https://img.youtube.com/vi/Qx6Jorgbj0k/0.jpg)](https://www.youtube.com/watch?v=Qx6Jorgbj0k)  |
+| What is SHM MOD Companion? |
+| ------------- |
+| [![What is SHM MOD Companion?](https://img.youtube.com/vi/QzYjqrgnKU0/0.jpg)](https://www.youtube.com/watch?v=QzYjqrgnKU0) |
 
 ## Don't want to watch...?
 No problem...
@@ -92,6 +92,9 @@ It's an All-In-One Tool I have developed to make things easier for you:
  6. How To Reach Me and Support Me...
  7. (WearOS Watches Only) ADB Connect to Sideload or Remove/Restore Stock SHM...
  8. BP Sync Enabler...
+ 
+ ## Where to download SHM MOD Companion...?
+ Here you go: [Google Drive - SHM MOD Companion](https://drive.google.com/open?id=1xrIX5-MkObdiDiOjvoayu65F0oPKmINq)
  
  ## Oh and if you want to enjoy other things I developed, then visit my website: https://geminiman.net/
  
