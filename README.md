@@ -75,6 +75,7 @@ One last note, disable any battery optimization, some phones have aggressive opt
 
 # What's SHM MOD Companion...?
 Start with this Video:
+
 [![What is SHM MOD Companion?](https://img.youtube.com/vi/QzYjqrgnKU0/0.jpg)](https://www.youtube.com/watch?v=QzYjqrgnKU0)
 
 ## Don't want to watch...?
